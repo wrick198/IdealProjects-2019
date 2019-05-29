@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta content="text/html" charset="UTF-8">
+    <title>跨文档发送消息</title>
+    <script>
+        var sendMsg=function(){
+            var targetWindow=window.open('http://localhost:8080/target.html');
+            targetWindow.onload=function () {
+                targetWindow.postMessage(document.getElementById("msg").value,"http://localhost:8080/web/target");
+            };
+        };
+        window.onmessage=function(ev){
+            if(ev.origin!="http://localhost:8080")
+                return;
+            var showDiv=document.getElementById("showDiv");
+            showDiv.innerHTML+=(ev.origin+"传来了消息:"+ev.data+"<br/>")
+        };
+    </script>
+</head>
+<body>
+    <div id="showDiv"></div>
+    消息: <input type="text" id="msg"/>
+    <input type="button" value="发送消息" onclick="sendMsg()"/> <br/>
+    <p id="demo">13</p>
+<script>
+    var w=window.innerWidth
+        || document.documentElement.clientWidth
+        || document.body.clientWidth;
+
+    var h=window.innerHeight
+        || document.documentElement.clientHeight
+        || document.body.clientHeight;
+
+    document.getElementById("demo").innerHTML="浏览器的内部窗口宽度：" + w + "，高度：" + h + "。";
+</script>
+</body>
+</html>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd">
+    <!--组件扫描-->
+    <context:component-scan base-package="com.steven.SpringDemo"/>
+    <!-- aop代理
+        <aop:aspectj-autoproxy
+    -->
+
+
+    <bean id="MessageServiceBean" class="com.steven.SpringDemo.MessageServiceImpl">
+        <constructor-arg value="123"/>
+        <property name="str2" value="456"/>
+    </bean>
+
+    <bean id="tiger" class="com.steven.SpringDemo.Tiger"/>
+    <bean id="zoo" class="com.steven.SpringDemo.Zoo">
+        <constructor-arg ref="tiger"/>
+    </bean>
+
+    <bean id="audience" class="com.steven.SpringDemo.Audience1"/>
+
+    <bean id="trackcount1" class="com.steven.SpringDemo.TrackCount"/>
+    <bean id="blankdisc" class="com.steven.SpringDemo.BlankDisc">
+        <property name="title" value="Dream"/>
+        <property name="artist" value="DOLF/Weird Genius/Rochelle"/>
+        <property name="tracks">
+            <list>
+                <value>Sgt. Pepper's Lonely Hearts Club Band</value>
+                <value>With a Little Help from My Friends</value>
+                <value>Lucky in the Sky with Diamonds</value>
+            </list>
+        </property>
+    </bean>
+
+    <!--切面XML声明-->
+    <aop:config>
+        <aop:aspect ref="audience">  <!--定义切面-->
+            <aop:pointcut id="perform" expression="execution(* com.steven.SpringDemo.Performance.perform(..))"/> <!--定义切点-->
+            <aop:before  method="silenceCellPhones" pointcut-ref="perform"/> <!--切面中的前置通知-->
+            <aop:before method="takeSeats" pointcut-ref="perform"/>
+            <aop:after-returning method="applause" pointcut-ref="perform"/>
+            <aop:after-throwing method="demandRefund" pointcut-ref="perform"/>
+            <aop:around method="watchPerformance" pointcut-ref="perform"/>
+        </aop:aspect>
+    </aop:config>
+
+    <!--带参数的切面前置通知-->
+    <aop:config>
+        <aop:aspect ref="trackcount1">
+            <aop:pointcut id="trackPlayed" expression="execution(* com.steven.SpringDemo.BlankDisc.playTrack(int)) and args(trackNum)"/>
+            <aop:before method="countTrack" pointcut-ref="trackPlayed"/>
+        </aop:aspect>
+    </aop:config>
+
+</beans>

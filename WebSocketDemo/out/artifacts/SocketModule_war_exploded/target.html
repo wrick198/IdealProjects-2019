@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        window.onmessage=function(ev){
+            if(ev.origin!="http://localhost:8080")
+                return;
+            var showDiv=document.getElementById("showDiv");
+            showDiv.innerHTML+=(ev.origin+"传来了消息:"+ev.data+"<br/>")
+            ev.source.postMessage("回传消息",ev.origin);
+        };
+    </script>
+</head>
+<body>
+    <div id="showDiv"></div>
+    <input type="button" value="发送消息" id="postmsg" onclick="sendMsg()"/>
+</body>
+</html>
