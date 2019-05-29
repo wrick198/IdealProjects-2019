@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.mapper.RoleMapper">
+    <select id="getRoleByID" parameterType="long" resultType="role_alias">
+        select id,roleName,note from Role where id = #{id}
+    </select>
+
+    <insert id="insertRole" parameterType="role_alias">
+        insert into Role(roleName,note) values(#{roleName},#{note})
+    </insert>
+
+    <update id="updateRole" parameterType="role_alias">
+        update Role set roleName=#{roleName}, note=#{note} where id=#{id}
+    </update>
+
+    <delete id="deleteRole" parameterType="long">
+        delete from Role where id=#{id}
+    </delete>
+</mapper>
+

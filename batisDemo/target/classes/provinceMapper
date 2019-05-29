@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.mapper.ProvinceMapper">
+    <resultMap id="proResultMapper" type="province_alias">
+        <!--id结点表示主键，column是SQL中的列名，property是POJO中的属性名-->
+        <id column="pro_id" property="id"/>
+
+        <!--association结点中表示的是一对一级联，column为select查询语句的输入参数，property是select的查询结果-->
+        <association property="alias" column="pro_id" select="com.mapper.AliasMapper.findAliasByid"/>
+    </resultMap>
+
+    <select id="getProvince" resultMap="proResultMapper">
+        select * from Province
+    </select>
+
+</mapper>
