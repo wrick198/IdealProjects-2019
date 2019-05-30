@@ -57,15 +57,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StaticTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Object/com/advanceJava/StaticTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="StringDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Object/com/advanceJava/StringDemo.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -127,14 +118,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="420">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zigzag_LC06.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/zigzag_LC06.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -196,7 +196,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Object/object123/SinglePattern.java" />
         <option value="$PROJECT_DIR$/Object/ThreadDemo/Mythread1.java" />
         <option value="$PROJECT_DIR$/Object/objectPatttern/StrategyPattern.java" />
         <option value="$PROJECT_DIR$/Object/objectPatttern/BuilderPatern.java" />
@@ -247,6 +246,7 @@
         <option value="$PROJECT_DIR$/src/MapSort.java" />
         <option value="$PROJECT_DIR$/src/Solution.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/zigzag_LC06.java" />
       </list>
     </option>
   </component>
@@ -266,10 +266,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="41" />
-    <option name="y" value="28" />
-    <option name="width" value="1879" />
-    <option name="height" value="1052" />
+    <option name="x" value="1920" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -277,24 +276,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="Object" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="Object" type="462c0819:PsiDirectoryNode" />
-              <item name="advanceJava" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
@@ -309,6 +296,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
@@ -324,7 +312,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/Object" />
-    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -353,17 +341,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="ConstructorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.advanceJava.ConstructorExample" />
-      <module name="Demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.advanceJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.zigzag_LC06">
     <configuration name="Flask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.advanceJava.Flask" />
       <module name="Demo" />
@@ -403,21 +381,25 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="zigzag_LC06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zigzag_LC06" />
+      <module name="Demo" />
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.ConstructorExample" />
       <item itemvalue="Application.StringDemo" />
       <item itemvalue="Application.Flask" />
       <item itemvalue="Application.MapSort" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.zigzag_LC06" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zigzag_LC06" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.MapSort" />
         <item itemvalue="Application.Flask" />
         <item itemvalue="Application.StringDemo" />
-        <item itemvalue="Application.ConstructorExample" />
       </list>
     </recent_temporary>
   </component>
@@ -477,11 +459,12 @@
       <workItem from="1540007140557" duration="599000" />
       <workItem from="1540023534999" duration="16000" />
       <workItem from="1556591882325" duration="115000" />
+      <workItem from="1559199534851" duration="1696000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="265458000" />
+    <option name="totallyTimeSpent" value="267154000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -493,34 +476,34 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="41" y="28" width="1879" height="1052" extended-state="6" />
+    <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="TODO" order="11" weight="0.23186034" />
+      <window_info anchor="right" id="Messages" order="10" sideWeight="0.49684212" weight="0.24168031" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32924226" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="right" id="Run" order="14" sideWeight="0.49052632" weight="0.2620064" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info anchor="right" id="Run" order="14" sideWeight="0.49052632" weight="0.26241136" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32947367" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46637744" visible="true" weight="0.21167485" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46526316" visible="true" weight="0.2113127" />
       <window_info anchor="right" id="Database" order="4" weight="0.32924226" />
-      <window_info id="Structure" order="1" sideWeight="0.53362256" side_tool="true" visible="true" weight="0.21167485" />
+      <window_info id="Structure" order="1" sideWeight="0.5347369" side_tool="true" visible="true" weight="0.2113127" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.2497332" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Debug" order="9" sideWeight="0.49578947" weight="0.3335112" />
       <window_info id="Favorites" order="2" sideWeight="0.5032538" side_tool="true" weight="0.23731588" />
-      <window_info anchor="right" id="Debug" order="9" sideWeight="0.49578947" weight="0.1827605" />
       <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="8" sideWeight="0.49894738" visible="true" weight="0.2497332" />
       <window_info anchor="right" id="Coverage" order="13" sideWeight="0.5010526" side_tool="true" visible="true" weight="0.2497332" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info active="true" anchor="right" id="Messages" order="10" sideWeight="0.49684212" visible="true" weight="0.24168031" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
@@ -530,30 +513,30 @@
       <window_info anchor="right" id="Palette" order="0" />
       <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="8" sideWeight="0.49894738" visible="true" weight="0.2497332" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="right" id="Coverage" order="13" sideWeight="0.5010526" side_tool="true" visible="true" weight="0.2497332" />
-      <window_info active="true" anchor="right" id="Run" order="14" sideWeight="0.49052632" visible="true" weight="0.3185699" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="right" id="Messages" order="10" sideWeight="0.49684212" weight="0.24279615" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48526317" visible="true" weight="0.18463181" />
       <window_info id="Structure" order="1" sideWeight="0.51473683" side_tool="true" weight="0.1782284" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.2497332" />
       <window_info anchor="right" id="TODO" order="11" weight="0.23212379" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info active="true" anchor="right" id="Run" order="14" sideWeight="0.49052632" visible="true" weight="0.3185699" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Find" order="12" weight="0.21344717" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" weight="0.32924226" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32947367" />
+      <window_info anchor="right" id="Coverage" order="13" sideWeight="0.5010526" side_tool="true" visible="true" weight="0.2497332" />
       <window_info anchor="right" id="Debug" order="9" sideWeight="0.49578947" weight="0.34578443" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info id="Capture Tool" order="5" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="right" id="Messages" order="10" sideWeight="0.49684212" weight="0.24279615" />
+      <window_info anchor="right" id="Find" order="12" weight="0.21344717" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32947367" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32924226" />
       <window_info id="Favorites" order="6" sideWeight="0.5032538" side_tool="true" weight="0.23731588" />
     </layout-to-restore>
@@ -697,7 +680,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="208" />
+      <option name="time" value="209" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -713,6 +696,9 @@
         <watch expression="stra.compareTo(strb)==1" />
         <watch expression="stra.compareTo(strb)" />
         <watch expression="helloString.equals(&quot;&quot;)" language="JAVA" />
+        <watch expression="i+j" language="JAVA" />
+        <watch expression="strconvert" />
+        <watch expression="i+j-2*i" />
       </configuration>
     </watches-manager>
   </component>
@@ -722,6 +708,11 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>i+j</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>helloString.equals(&quot;&quot;)</expression-string>
         <language-id>JAVA</language-id>
@@ -762,13 +753,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/software/jdk-10.0.1/lib/src.zip!/java.base/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88914">
-          <caret line="4309" column="5" selection-start-line="4309" selection-start-column="5" selection-end-line="4309" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/software/jdk-10.0.1/lib/src.zip!/java.base/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2394">
@@ -878,9 +862,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5187">
           <caret line="253" column="45" selection-start-line="253" selection-start-column="45" selection-end-line="253" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1089,11 +1070,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="420">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zigzag_LC06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
         </state>
       </provider>
     </entry>
