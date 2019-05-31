@@ -121,7 +121,7 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
+            <state relative-caret-position="315">
               <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -130,24 +130,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zigzag_LC06.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="zigzag_LC06.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/zigzag_LC06.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
-              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringBuilder.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/software/jdk-10.0.1/lib/src.zip!/java.base/java/lang/StringBuilder.java">
+      <file leaf-file-name="reverseInteger_LC07.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/reverseInteger_LC07.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7476">
-              <caret line="387" column="5" selection-start-line="387" selection-start-column="5" selection-end-line="387" selection-end-column="5" />
-              <folding>
-                <element signature="e#10462#10463#0" expanded="true" />
-                <element signature="e#10503#10504#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="436">
+              <caret line="29" column="49" lean-forward="true" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -196,7 +192,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Object/ThreadDemo/Mythread1.java" />
         <option value="$PROJECT_DIR$/Object/objectPatttern/StrategyPattern.java" />
         <option value="$PROJECT_DIR$/Object/objectPatttern/BuilderPatern.java" />
         <option value="$PROJECT_DIR$/Object/objectPatttern/ProxyPattern.java" />
@@ -247,6 +242,7 @@
         <option value="$PROJECT_DIR$/src/Solution.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/zigzag_LC06.java" />
+        <option value="$PROJECT_DIR$/src/reverseInteger_LC07.java" />
       </list>
     </option>
   </component>
@@ -265,7 +261,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1920" />
     <option name="width" value="1920" />
     <option name="height" value="1080" />
@@ -276,6 +272,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -296,9 +295,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -341,7 +337,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.zigzag_LC06">
+  <component name="RunManager" selected="Application.reverseInteger_LC07">
     <configuration name="Flask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.advanceJava.Flask" />
       <module name="Demo" />
@@ -371,15 +367,9 @@
       <option name="MAIN_CLASS_NAME" value="MethodYinyong" />
       <module name="Demo" />
     </configuration>
-    <configuration name="StringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.advanceJava.StringDemo" />
+    <configuration name="reverseInteger_LC07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverseInteger_LC07" />
       <module name="Demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.advanceJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="zigzag_LC06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zigzag_LC06" />
@@ -387,19 +377,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.StringDemo" />
       <item itemvalue="Application.Flask" />
       <item itemvalue="Application.MapSort" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.zigzag_LC06" />
+      <item itemvalue="Application.reverseInteger_LC07" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.reverseInteger_LC07" />
         <item itemvalue="Application.zigzag_LC06" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.MapSort" />
         <item itemvalue="Application.Flask" />
-        <item itemvalue="Application.StringDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -460,11 +450,12 @@
       <workItem from="1540023534999" duration="16000" />
       <workItem from="1556591882325" duration="115000" />
       <workItem from="1559199534851" duration="1696000" />
+      <workItem from="1559264782287" duration="3558000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="267154000" />
+    <option name="totallyTimeSpent" value="270712000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -481,28 +472,28 @@
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="TODO" order="11" weight="0.23186034" />
-      <window_info anchor="right" id="Messages" order="10" sideWeight="0.49684212" weight="0.24168031" />
+      <window_info anchor="right" id="Messages" order="10" sideWeight="0.49684212" weight="0.2411953" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32924226" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
-      <window_info anchor="right" id="Run" order="14" sideWeight="0.49052632" weight="0.2620064" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info active="true" anchor="right" id="Run" order="14" sideWeight="0.49052632" visible="true" weight="0.2620064" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32947367" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46526316" visible="true" weight="0.2113127" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46421054" visible="true" weight="0.2113127" />
       <window_info anchor="right" id="Database" order="4" weight="0.32924226" />
-      <window_info id="Structure" order="1" sideWeight="0.5347369" side_tool="true" visible="true" weight="0.2113127" />
+      <window_info id="Structure" order="1" sideWeight="0.5357895" side_tool="true" visible="true" weight="0.2113127" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.2497332" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Debug" order="9" sideWeight="0.49578947" weight="0.3335112" />
       <window_info id="Favorites" order="2" sideWeight="0.5032538" side_tool="true" weight="0.23731588" />
-      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="8" sideWeight="0.49894738" visible="true" weight="0.2497332" />
+      <window_info anchor="right" id="Debug" order="9" sideWeight="0.49578947" weight="0.25933832" />
       <window_info anchor="right" id="Coverage" order="13" sideWeight="0.5010526" side_tool="true" visible="true" weight="0.2497332" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="8" sideWeight="0.49894738" visible="true" weight="0.2497332" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="4" />
@@ -511,18 +502,18 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32947367" />
+      <window_info anchor="right" id="Find" order="12" weight="0.21344717" />
       <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="8" sideWeight="0.49894738" visible="true" weight="0.2497332" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info active="true" anchor="right" id="Run" order="14" sideWeight="0.49052632" visible="true" weight="0.3185699" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="right" id="Messages" order="10" sideWeight="0.49684212" weight="0.24279615" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48526317" visible="true" weight="0.18463181" />
       <window_info id="Structure" order="1" sideWeight="0.51473683" side_tool="true" weight="0.1782284" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.2497332" />
       <window_info anchor="right" id="TODO" order="11" weight="0.23212379" />
-      <window_info active="true" anchor="right" id="Run" order="14" sideWeight="0.49052632" visible="true" weight="0.3185699" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -532,11 +523,11 @@
       <window_info anchor="right" id="Coverage" order="13" sideWeight="0.5010526" side_tool="true" visible="true" weight="0.2497332" />
       <window_info anchor="right" id="Debug" order="9" sideWeight="0.49578947" weight="0.34578443" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info id="Capture Tool" order="5" />
-      <window_info anchor="right" id="Find" order="12" weight="0.21344717" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32947367" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="right" id="Messages" order="10" sideWeight="0.49684212" weight="0.24279615" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32924226" />
       <window_info id="Favorites" order="6" sideWeight="0.5032538" side_tool="true" weight="0.23731588" />
     </layout-to-restore>
@@ -646,6 +637,12 @@
           <properties />
           <option name="timeStamp" value="207" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/reverseInteger_LC07.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/Object/com/objectPattern/InitStaticVariable.java</url>
           <line>20</line>
@@ -680,7 +677,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="209" />
+      <option name="time" value="211" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -699,6 +696,7 @@
         <watch expression="i+j" language="JAVA" />
         <watch expression="strconvert" />
         <watch expression="i+j-2*i" />
+        <watch expression="maxval" />
       </configuration>
     </watches-manager>
   </component>
@@ -753,13 +751,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/software/jdk-10.0.1/lib/src.zip!/java.base/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2394">
-          <caret line="137" column="17" selection-start-line="137" selection-start-column="17" selection-end-line="137" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Object/com/objectPattern/ObserverPattern.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
@@ -1070,7 +1061,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="315">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1081,7 +1072,14 @@
     <entry file="file://$PROJECT_DIR$/src/zigzag_LC06.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reverseInteger_LC07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="29" column="49" lean-forward="true" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
         </state>
       </provider>
     </entry>
