@@ -16,7 +16,7 @@ if(numberint<Integer.MIN_VALUE/10 || (numberint==Integer.MIN_VALUE/10 && a<-8)) 
      
 while(i<length && str.charAt(i)==' ')
       i++;      
-      
+ //判断之前需要先检查下标是否越界     
 if(i<length && str.charAt(i)=='-'){ //负号
      negflag=true;
      i++;
