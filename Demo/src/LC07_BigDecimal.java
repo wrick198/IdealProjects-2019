@@ -32,5 +32,7 @@ public class LC07_BigDecimal {
         // Negate value of BigDecimal1
         bd1 = bd1.negate();
         System.out.println("BigDecimal1 = " + bd1);
+        System.out.println('+'-'0');
+
     }
 }
