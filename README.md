@@ -9,19 +9,20 @@ Personal practice daily
 - LC08
 ```
 if(numberint>Integer.MAX_VALUE/10 || (numberint==Integer.MAX_VALUE/10 && a>7)) //比最大值大,提前判断计算结果的值
-                    return Integer.MAX_VALUE;
+     return Integer.MAX_VALUE;
 if(numberint<Integer.MIN_VALUE/10 || (numberint==Integer.MIN_VALUE/10 && a<-8)) //比最大值小
-                    return Integer.MIN_VALUE;
-                numberint=numberint*10+a;
- 	while(i<length && str.charAt(i)==' ')
-            i++;
-        boolean negflag=false;
-        if(i<length && str.charAt(i)=='-'){ //负号
-            negflag=true;
-            i++;
-        }else if(i<length && str.charAt(i)=='+'){ //正号
-            i++;
-        }
+     return Integer.MIN_VALUE;
+     numberint=numberint*10+a;
+     
+while(i<length && str.charAt(i)==' ')
+      i++;      
+      
+if(i<length && str.charAt(i)=='-'){ //负号
+     negflag=true;
+     i++;
+}else if(i<length && str.charAt(i)=='+'){ //正号
+     i++;
+}
 
 ```
 	
