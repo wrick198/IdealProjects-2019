@@ -139,23 +139,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reverseInteger_LC07.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="reverseInteger_LC07.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/reverseInteger_LC07.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="29" column="49" lean-forward="true" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+            <state relative-caret-position="268">
+              <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/software/jdk-10.0.1/lib/src.zip!/java.base/java/lang/String.java">
+      <file leaf-file-name="LC07_BigDecimal.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LC07_BigDecimal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23709">
-              <caret line="1192" column="15" selection-start-line="1192" selection-start-column="15" selection-end-line="1192" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state>
+              <caret column="15" selection-start-column="15" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -192,7 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Object/objectPatttern/StrategyPattern.java" />
         <option value="$PROJECT_DIR$/Object/objectPatttern/BuilderPatern.java" />
         <option value="$PROJECT_DIR$/Object/objectPatttern/ProxyPattern.java" />
         <option value="$PROJECT_DIR$/Object/ThreadDemo/ProducerConsumer.java" />
@@ -243,6 +239,7 @@
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/zigzag_LC06.java" />
         <option value="$PROJECT_DIR$/src/reverseInteger_LC07.java" />
+        <option value="$PROJECT_DIR$/src/LC07_BigDecimal.java" />
       </list>
     </option>
   </component>
@@ -337,16 +334,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.reverseInteger_LC07">
-    <configuration name="Flask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.advanceJava.Flask" />
+  <component name="RunManager" selected="Application.LC07_BigDecimal">
+    <configuration name="LC07_BigDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LC07_BigDecimal" />
       <module name="Demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.advanceJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -377,19 +368,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Flask" />
       <item itemvalue="Application.MapSort" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.zigzag_LC06" />
       <item itemvalue="Application.reverseInteger_LC07" />
+      <item itemvalue="Application.LC07_BigDecimal" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC07_BigDecimal" />
         <item itemvalue="Application.reverseInteger_LC07" />
         <item itemvalue="Application.zigzag_LC06" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.MapSort" />
-        <item itemvalue="Application.Flask" />
       </list>
     </recent_temporary>
   </component>
@@ -450,12 +441,12 @@
       <workItem from="1540023534999" duration="16000" />
       <workItem from="1556591882325" duration="115000" />
       <workItem from="1559199534851" duration="1696000" />
-      <workItem from="1559264782287" duration="3558000" />
+      <workItem from="1559264782287" duration="4260000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="270712000" />
+    <option name="totallyTimeSpent" value="271414000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -480,11 +471,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32924226" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info active="true" anchor="right" id="Run" order="14" sideWeight="0.49052632" visible="true" weight="0.2620064" />
+      <window_info anchor="right" id="Run" order="14" sideWeight="0.49052632" visible="true" weight="0.2620064" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32947367" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46421054" visible="true" weight="0.2113127" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.46421054" visible="true" weight="0.2113127" />
       <window_info anchor="right" id="Database" order="4" weight="0.32924226" />
       <window_info id="Structure" order="1" sideWeight="0.5357895" side_tool="true" visible="true" weight="0.2113127" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.2497332" />
@@ -751,13 +742,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Object/com/objectPattern/ObserverPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -1078,8 +1062,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/reverseInteger_LC07.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="29" column="49" lean-forward="true" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+        <state relative-caret-position="268">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LC07_BigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>
