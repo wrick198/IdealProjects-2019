@@ -1,3 +1,6 @@
+/*
+水仙花数
+ */
 public class LC09_palindrome {
     public boolean isPalindrome(int x) {
         String str=String.valueOf(x);
