@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans-3.2.xsd">
+
+    <!-- 本 spring-beans.xml 作为 web.xml 加载的除spring-mvc.xml 外的spring配置文件集合 -->
+
+    <import resource="classpath*:/META-INF/conf/spring-hibernate.xml"></import>
+    <import resource="classpath*:/META-INF/conf/spring-web.xml"></import>
+    <import resource="classpath*:/META-INF/conf/spring-security.xml"></import>
+
+</beans>

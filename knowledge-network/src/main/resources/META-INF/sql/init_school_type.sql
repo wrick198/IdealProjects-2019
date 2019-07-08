@@ -1,0 +1,9 @@
+INSERT INTO `school_type`(`id`, `name`) VALUES (1, '公立小学');
+INSERT INTO `school_type`(`id`, `name`) VALUES (2, '公立中学');
+INSERT INTO `school_type`(`id`, `name`) VALUES (3, '公立九年一贯制');
+INSERT INTO `school_type`(`id`, `name`) VALUES (8, '公立十二年一贯制');
+INSERT INTO `school_type`(`id`, `name`) VALUES (4, '私立小学');
+INSERT INTO `school_type`(`id`, `name`) VALUES (5, '私立中学');
+INSERT INTO `school_type`(`id`, `name`) VALUES (6, '私立九年一贯制');
+INSERT INTO `school_type`(`id`, `name`) VALUES (9, '私立十二年一贯制');
+INSERT INTO `school_type`(`id`, `name`) VALUES (7, '培训机构');

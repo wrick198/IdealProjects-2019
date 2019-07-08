@@ -1,0 +1,12 @@
+INSERT INTO `subject`(`name`) VALUES ('语文');
+INSERT INTO `subject`(`name`) VALUES ('数学');
+INSERT INTO `subject`(`name`) VALUES ('英语');
+INSERT INTO `subject`(`name`) VALUES ('历史');
+INSERT INTO `subject`(`name`) VALUES ('地理');
+INSERT INTO `subject`(`name`) VALUES ('政治');
+INSERT INTO `subject`(`name`) VALUES ('物理');
+INSERT INTO `subject`(`name`) VALUES ('化学');
+INSERT INTO `subject`(`name`) VALUES ('生物');
+INSERT INTO `subject`(`name`) VALUES ('音乐');
+INSERT INTO `subject`(`name`) VALUES ('美术');
+INSERT INTO `subject`(`name`) VALUES ('体育');
