@@ -23,6 +23,7 @@ if(i<length && str.charAt(i)=='-'){ //负号
 }else if(i<length && str.charAt(i)=='+'){ //正号
      i++;
 }
-
 ```
+- 20190708 将windows中的idea文件中的程序commit到了github上
+
 	
