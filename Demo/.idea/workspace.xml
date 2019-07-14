@@ -39,28 +39,32 @@
     <session id="-882568447">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="662" />
+          <entry key="java" value="2518" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="662" />
+          <entry key="JAVA" value="2518" />
         </counts>
       </usages-collector>
     </session>
@@ -87,70 +91,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MapSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-              <folding>
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#132#133#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/zigzag_LC06.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/reverseInteger_LC07.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" selection-start-line="10" selection-end-line="13" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LC07_BigDecimal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LC08_StringToInteger.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="990">
@@ -171,17 +111,75 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LC10_Regular.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
+            <state relative-caret-position="524">
               <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Leetcode11_ContainerMostWater.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+            <state relative-caret-position="264">
+              <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LC14_LongestComPrefix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LC12_IntegerToRoman.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="497">
+              <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="145" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="39600">
+              <caret line="1879" column="5" selection-start-line="1879" selection-start-column="5" selection-end-line="1879" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4752">
+              <caret line="242" column="6" selection-start-line="242" selection-start-column="6" selection-end-line="242" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3256">
+              <caret line="171" column="12" selection-start-line="171" selection-start-column="12" selection-end-line="171" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3278">
+              <caret line="177" column="40" selection-start-line="177" selection-start-column="40" selection-end-line="177" selection-end-column="40" />
+              <folding>
+                <element signature="e#6326#6327#0" expanded="true" />
+                <element signature="e#6394#6395#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -216,13 +214,12 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Object/objectPattern/Reflection.java" />
-        <option value="$PROJECT_DIR$/Object/objectPattern/FactoryPattern.java" />
         <option value="$PROJECT_DIR$/Object/com/objectPattern/FacadePattern.java" />
         <option value="$PROJECT_DIR$/Object/com/objectPattern/fornameAndClassLoader.java" />
         <option value="$PROJECT_DIR$/Object/com/objectPattern/ConstructDemo.java" />
@@ -272,6 +269,8 @@
         <option value="$PROJECT_DIR$/src/LC09_palindrome.java" />
         <option value="$PROJECT_DIR$/src/LC10_Regular.java" />
         <option value="$PROJECT_DIR$/src/Leetcode11_ContainerMostWater.java" />
+        <option value="$PROJECT_DIR$/src/LC12_IntegerToRoman.java" />
+        <option value="$PROJECT_DIR$/src/LC14_LongestComPrefix.java" />
       </list>
     </option>
   </component>
@@ -287,11 +286,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-1374" />
+    <option name="y" value="296" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -315,6 +314,12 @@
             </path>
             <path>
               <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LC12_IntegerToRoman.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -332,16 +337,16 @@
     <property name="SearchEverywhereHistoryKey" value="classloader&#9;FILE&#9;jrt:///home/steven/software/jdk-10.0.1!/java.base/java/lang/ClassLoader.class&#10;stack&#9;PSI&#9;JAVA://java.util.Stack&#10;asciistring&#9;FILE&#9;jar:///home/steven/IdeaProjects/MavenRepository/io/netty/netty-all/5.0.0.Alpha2/netty-all-5.0.0.Alpha2.jar!/io/netty/handler/codec/AsciiString.class&#10;rectangle&#9;PSI&#9;JAVA://com.objectPattern.Rectangle&#10;circle&#9;PSI&#9;JAVA://com.objectPattern.Circle&#10;circ&#9;PSI&#9;JAVA://com.objectPattern.Circle&#10;executor&#9;PSI&#9;JAVA://java.util.concurrent.Executor&#10;thread&#9;FILE&#9;jar:///home/steven/software/jdk-10.0.1/lib/src.zip!/java.base/java/lang/Thread.java&#10;holdslock&#9;FILE&#9;jar:///home/steven/software/jdk-10.0.1/lib/src.zip!/jdk.internal.vm.compiler/org.graalvm.compiler.jtt/src/org/graalvm/compiler/jtt/threads/Thread_holdsLock01.java&#10;scanner&#9;PSI&#9;JAVA://java.util.Scanner&#10;hash&#9;FILE&#9;jar:///home/steven/software/jdk-10.0.1/lib/src.zip!/java.base/java/util/HashMap.java&#10;abstractmap&#9;PSI&#9;JAVA://java.util.AbstractMap&#10;hashmap&#9;FILE&#9;jar:///home/steven/software/jdk-10.0.1/lib/src.zip!/java.base/java/util/HashMap.java&#10;map&#9;null&#9;null&#10;iterator&#9;FILE&#9;jar:///home/steven/software/jdk-10.0.1/lib/src.zip!/java.base/java/util/Iterator.java&#10;collec&#9;FILE&#9;jar:///home/steven/software/jdk-10.0.1/lib/src.zip!/java.base/java/util/Collection.java&#10;vector&#9;PSI&#9;JAVA://java.util.Vector&#10;copyof&#9;PSI&#9;JAVA://java.util.Arrays#copyOf&#10;grpw&#9;PSI&#9;JAVA://org.graalvm.compiler.hotspot.nodes.G1ArrayRangePostWriteBarrier&#10;arraylist&#9;FILE&#9;jar:///home/steven/software/jdk-10.0.1/lib/src.zip!/java.base/java/util/ArrayList.java&#10;newf&#9;FILE&#9;file:///home/steven/IdeaProjects/Demo/src/NewFeaturesTest.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562808826828" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563084300240" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/Object" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -366,7 +371,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode11_ContainerMostWater">
+  <component name="RunManager" selected="Application.LC14_LongestComPrefix">
     <configuration name="LC08_StringToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LC08_StringToInteger" />
       <module name="Demo" />
@@ -376,6 +381,20 @@
     </configuration>
     <configuration name="LC10_Regular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LC10_Regular" />
+      <module name="Demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC12_IntegerToRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LC12_IntegerToRoman" />
+      <module name="Demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC14_LongestComPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LC14_LongestComPrefix" />
       <module name="Demo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -398,35 +417,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverseInteger_LC07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reverseInteger_LC07" />
-      <module name="Demo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="zigzag_LC06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zigzag_LC06" />
-      <module name="Demo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.zigzag_LC06" />
-      <item itemvalue="Application.reverseInteger_LC07" />
       <item itemvalue="Application.LC08_StringToInteger" />
       <item itemvalue="Application.LC10_Regular" />
       <item itemvalue="Application.Leetcode11_ContainerMostWater" />
+      <item itemvalue="Application.LC12_IntegerToRoman" />
+      <item itemvalue="Application.LC14_LongestComPrefix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC14_LongestComPrefix" />
+        <item itemvalue="Application.LC12_IntegerToRoman" />
         <item itemvalue="Application.Leetcode11_ContainerMostWater" />
         <item itemvalue="Application.LC10_Regular" />
         <item itemvalue="Application.LC08_StringToInteger" />
-        <item itemvalue="Application.reverseInteger_LC07" />
-        <item itemvalue="Application.zigzag_LC06" />
       </list>
     </recent_temporary>
   </component>
@@ -489,12 +494,15 @@
       <workItem from="1559199534851" duration="1696000" />
       <workItem from="1559264782287" duration="9721000" />
       <workItem from="1560388903114" duration="4925000" />
-      <workItem from="1562806375882" duration="2194000" />
+      <workItem from="1562806375882" duration="28879000" />
+      <workItem from="1563008071412" duration="254000" />
+      <workItem from="1563008394760" duration="756000" />
+      <workItem from="1563009358703" duration="5066000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="283994000" />
+    <option name="totallyTimeSpent" value="316755000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -507,37 +515,37 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46254072" visible="true" weight="0.21108742" />
-      <window_info id="Structure" order="1" sideWeight="0.53745925" side_tool="true" visible="true" weight="0.21108742" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7046688" visible="true" weight="0.21108742" />
+      <window_info id="Structure" order="1" sideWeight="0.29533115" side_tool="true" visible="true" weight="0.21108742" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.5032538" side_tool="true" weight="0.23731588" />
+      <window_info id="Favorites" order="6" sideWeight="0.5388349" side_tool="true" weight="0.21108742" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32947367" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32899022" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="JProfiler" order="7" weight="0.32899022" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32924226" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32924226" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32889125" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32889125" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.2497332" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24946696" />
       <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="8" sideWeight="0.49894738" visible="true" weight="0.2497332" />
-      <window_info anchor="right" id="Debug" order="9" sideWeight="0.49578947" weight="0.25933832" />
+      <window_info anchor="right" id="Debug" order="9" sideWeight="0.49578947" weight="0.34808102" />
       <window_info anchor="right" id="Messages" order="10" sideWeight="0.49684212" weight="0.24093817" />
       <window_info anchor="right" id="TODO" order="11" weight="0.23186034" />
       <window_info anchor="right" id="Find" order="12" weight="0.21344717" />
       <window_info anchor="right" id="Coverage" order="13" sideWeight="0.5010526" side_tool="true" visible="true" weight="0.2497332" />
-      <window_info active="true" anchor="right" id="Run" order="14" sideWeight="0.49052632" visible="true" weight="0.26172706" />
+      <window_info active="true" anchor="right" id="Run" order="14" sideWeight="0.49052632" visible="true" weight="0.26066098" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48526317" visible="true" weight="0.18463181" />
@@ -688,6 +696,18 @@
           <properties />
           <option name="timeStamp" value="211" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC12_IntegerToRoman.java</url>
+          <line>123</line>
+          <properties />
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC14_LongestComPrefix.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/Object/com/objectPattern/InitStaticVariable.java</url>
           <line>20</line>
@@ -723,6 +743,15 @@
         <breakpoints-dialog />
       </breakpoints-dialog>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="romanmap.get(substr)" />
+        <watch expression="s.charAt(i)" />
+        <watch expression="romanmap.get(&quot;M&quot;)" language="JAVA" />
+        <watch expression="s.substring(0,10)" language="JAVA" />
+        <watch expression="s.substring(0,7)" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -730,6 +759,21 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>s.substring(0,7)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s.substring(0,10)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>romanmap.get(&quot;M&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>i+j</expression-string>
         <language-id>JAVA</language-id>
@@ -760,11 +804,6 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>a</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
     <expressions id="setValue">
       <expression>
@@ -775,30 +814,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/software/jdk-10.0.1/lib/src.zip!/java.base/java/lang/System.java" />
-    <entry file="jar://$USER_HOME$/software/jdk-10.0.1/lib/src.zip!/java.base/java/util/function/BiPredicate.java" />
-    <entry file="jar://$USER_HOME$/software/jdk-10.0.1/lib/src.zip!/java.base/java/util/function/Function.java" />
-    <entry file="file://$PROJECT_DIR$/src/MethodYinyong.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object/com/objectPattern/ConstructDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object/com/objectPattern/ProxyPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/software/jdk-10.0.1/lib/src.zip!/java.base/java/lang/reflect/Method.java" />
     <entry file="file://$PROJECT_DIR$/Object/com/objectPattern/TemplatePattern.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -964,9 +979,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -974,10 +986,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-          <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#132#133#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1026,17 +1034,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39600">
+          <caret line="1879" column="5" selection-start-line="1879" selection-start-column="5" selection-end-line="1879" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4752">
+          <caret line="242" column="6" selection-start-line="242" selection-start-column="6" selection-end-line="242" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3256">
+          <caret line="171" column="12" selection-start-line="171" selection-start-column="12" selection-end-line="171" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3278">
+          <caret line="177" column="40" selection-start-line="177" selection-start-column="40" selection-end-line="177" selection-end-column="40" />
+          <folding>
+            <element signature="e#6326#6327#0" expanded="true" />
+            <element signature="e#6394#6395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/LC10_Regular.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
+        <state relative-caret-position="524">
           <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode11_ContainerMostWater.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        <state relative-caret-position="264">
+          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LC12_IntegerToRoman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="145" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LC14_LongestComPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
         </state>
       </provider>
     </entry>
