@@ -5,7 +5,11 @@
     <bookmark url="file://$PROJECT_DIR$/src/compare.java" line="78" mnemonic="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3c46619-797a-4e78-8271-ed49a606bd40" name="Default" comment="" />
+    <list default="true" id="e3c46619-797a-4e78-8271-ed49a606bd40" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/LC15_3Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test1.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,32 +43,33 @@
     <session id="-882568447">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.34" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="7" />
+          <entry key="java" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2518" />
+          <entry key="java" value="4656" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2518" />
+          <entry key="JAVA" value="4656" />
         </counts>
       </usages-collector>
     </session>
@@ -91,46 +96,54 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LC08_StringToInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
-              <caret line="45" selection-start-line="45" selection-end-line="46" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LC09_palindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LC10_Regular.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
+            <state relative-caret-position="726">
               <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Leetcode11_ContainerMostWater.java">
+        <entry file="file://$PROJECT_DIR$/src/LC14_LongestComPrefix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+            <state relative-caret-position="44">
+              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LC14_LongestComPrefix.java">
+        <entry file="file://$PROJECT_DIR$/src/LC15_3Sum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+            <state relative-caret-position="330">
+              <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#220#235#0" expanded="true" />
+                <element signature="e#212#227#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="813">
+              <caret line="173" column="46" lean-forward="true" selection-start-line="173" selection-start-column="46" selection-end-line="173" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="497">
+              <caret line="52" column="28" lean-forward="true" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="29" />
+              <folding>
+                <element signature="e#1861#1876#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -138,8 +151,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LC12_IntegerToRoman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="145" selection-end-column="5" />
+            <state relative-caret-position="2917">
+              <caret line="138" column="9" lean-forward="true" selection-start-line="138" selection-start-column="9" selection-end-line="138" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -220,8 +233,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Object/com/objectPattern/FacadePattern.java" />
-        <option value="$PROJECT_DIR$/Object/com/objectPattern/fornameAndClassLoader.java" />
         <option value="$PROJECT_DIR$/Object/com/objectPattern/ConstructDemo.java" />
         <option value="$PROJECT_DIR$/Object/com/objectPattern/ProxyPattern.java" />
         <option value="$PROJECT_DIR$/Object/com/objectPattern/ObserverPattern.java" />
@@ -271,6 +282,8 @@
         <option value="$PROJECT_DIR$/src/Leetcode11_ContainerMostWater.java" />
         <option value="$PROJECT_DIR$/src/LC12_IntegerToRoman.java" />
         <option value="$PROJECT_DIR$/src/LC14_LongestComPrefix.java" />
+        <option value="$PROJECT_DIR$/src/test1.java" />
+        <option value="$PROJECT_DIR$/src/LC15_3Sum.java" />
       </list>
     </option>
   </component>
@@ -286,11 +299,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-1374" />
-    <option name="y" value="296" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -300,6 +313,8 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -314,20 +329,12 @@
             </path>
             <path>
               <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LC12_IntegerToRoman.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -337,7 +344,7 @@
     <property name="SearchEverywhereHistoryKey" value="classloader&#9;FILE&#9;jrt:///home/steven/software/jdk-10.0.1!/java.base/java/lang/ClassLoader.class&#10;stack&#9;PSI&#9;JAVA://java.util.Stack&#10;asciistring&#9;FILE&#9;jar:///home/steven/IdeaProjects/MavenRepository/io/netty/netty-all/5.0.0.Alpha2/netty-all-5.0.0.Alpha2.jar!/io/netty/handler/codec/AsciiString.class&#10;rectangle&#9;PSI&#9;JAVA://com.objectPattern.Rectangle&#10;circle&#9;PSI&#9;JAVA://com.objectPattern.Circle&#10;circ&#9;PSI&#9;JAVA://com.objectPattern.Circle&#10;executor&#9;PSI&#9;JAVA://java.util.concurrent.Executor&#10;thread&#9;FILE&#9;jar:///home/steven/software/jdk-10.0.1/lib/src.zip!/java.base/java/lang/Thread.java&#10;holdslock&#9;FILE&#9;jar:///home/steven/software/jdk-10.0.1/lib/src.zip!/jdk.internal.vm.compiler/org.graalvm.compiler.jtt/src/org/graalvm/compiler/jtt/threads/Thread_holdsLock01.java&#10;scanner&#9;PSI&#9;JAVA://java.util.Scanner&#10;hash&#9;FILE&#9;jar:///home/steven/software/jdk-10.0.1/lib/src.zip!/java.base/java/util/HashMap.java&#10;abstractmap&#9;PSI&#9;JAVA://java.util.AbstractMap&#10;hashmap&#9;FILE&#9;jar:///home/steven/software/jdk-10.0.1/lib/src.zip!/java.base/java/util/HashMap.java&#10;map&#9;null&#9;null&#10;iterator&#9;FILE&#9;jar:///home/steven/software/jdk-10.0.1/lib/src.zip!/java.base/java/util/Iterator.java&#10;collec&#9;FILE&#9;jar:///home/steven/software/jdk-10.0.1/lib/src.zip!/java.base/java/util/Collection.java&#10;vector&#9;PSI&#9;JAVA://java.util.Vector&#10;copyof&#9;PSI&#9;JAVA://java.util.Arrays#copyOf&#10;grpw&#9;PSI&#9;JAVA://org.graalvm.compiler.hotspot.nodes.G1ArrayRangePostWriteBarrier&#10;arraylist&#9;FILE&#9;jar:///home/steven/software/jdk-10.0.1/lib/src.zip!/java.base/java/util/ArrayList.java&#10;newf&#9;FILE&#9;file:///home/steven/IdeaProjects/Demo/src/NewFeaturesTest.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563084300240" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563357996165" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -371,21 +378,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LC14_LongestComPrefix">
-    <configuration name="LC08_StringToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LC08_StringToInteger" />
-      <module name="Demo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LC10_Regular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LC10_Regular" />
-      <module name="Demo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.LC15_3Sum">
     <configuration name="LC12_IntegerToRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LC12_IntegerToRoman" />
       <module name="Demo" />
@@ -395,6 +388,13 @@
     </configuration>
     <configuration name="LC14_LongestComPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LC14_LongestComPrefix" />
+      <module name="Demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC15_3Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LC15_3Sum" />
       <module name="Demo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -417,21 +417,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test1" />
+      <module name="Demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.LC08_StringToInteger" />
-      <item itemvalue="Application.LC10_Regular" />
       <item itemvalue="Application.Leetcode11_ContainerMostWater" />
       <item itemvalue="Application.LC12_IntegerToRoman" />
       <item itemvalue="Application.LC14_LongestComPrefix" />
+      <item itemvalue="Application.test1" />
+      <item itemvalue="Application.LC15_3Sum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC15_3Sum" />
+        <item itemvalue="Application.test1" />
         <item itemvalue="Application.LC14_LongestComPrefix" />
         <item itemvalue="Application.LC12_IntegerToRoman" />
         <item itemvalue="Application.Leetcode11_ContainerMostWater" />
-        <item itemvalue="Application.LC10_Regular" />
-        <item itemvalue="Application.LC08_StringToInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -497,12 +504,13 @@
       <workItem from="1562806375882" duration="28879000" />
       <workItem from="1563008071412" duration="254000" />
       <workItem from="1563008394760" duration="756000" />
-      <workItem from="1563009358703" duration="5066000" />
+      <workItem from="1563009358703" duration="7681000" />
+      <workItem from="1563259861551" duration="10636000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="316755000" />
+    <option name="totallyTimeSpent" value="330006000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -515,9 +523,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7046688" visible="true" weight="0.21108742" />
-      <window_info id="Structure" order="1" sideWeight="0.29533115" side_tool="true" visible="true" weight="0.21108742" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.70238096" visible="true" weight="0.21108742" />
+      <window_info id="Structure" order="1" sideWeight="0.29761904" side_tool="true" visible="true" weight="0.21108742" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -525,12 +534,13 @@
       <window_info id="Favorites" order="6" sideWeight="0.5388349" side_tool="true" weight="0.21108742" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.32899022" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32899022" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="JProfiler" order="7" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Debug" order="8" sideWeight="0.49578947" visible="true" weight="0.3615635" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
@@ -540,12 +550,11 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.24946696" />
       <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="8" sideWeight="0.49894738" visible="true" weight="0.2497332" />
-      <window_info anchor="right" id="Debug" order="9" sideWeight="0.49578947" weight="0.34808102" />
-      <window_info anchor="right" id="Messages" order="10" sideWeight="0.49684212" weight="0.24093817" />
-      <window_info anchor="right" id="TODO" order="11" weight="0.23186034" />
-      <window_info anchor="right" id="Find" order="12" weight="0.21344717" />
-      <window_info anchor="right" id="Coverage" order="13" sideWeight="0.5010526" side_tool="true" visible="true" weight="0.2497332" />
-      <window_info active="true" anchor="right" id="Run" order="14" sideWeight="0.49052632" visible="true" weight="0.26066098" />
+      <window_info anchor="right" id="Messages" order="9" sideWeight="0.49684212" weight="0.24093817" />
+      <window_info anchor="right" id="TODO" order="10" weight="0.23186034" />
+      <window_info anchor="right" id="Find" order="11" weight="0.21344717" />
+      <window_info anchor="right" id="Coverage" order="12" sideWeight="0.5010526" side_tool="true" visible="true" weight="0.2497332" />
+      <window_info anchor="right" id="Run" order="13" sideWeight="0.49052632" weight="0.26439232" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48526317" visible="true" weight="0.18463181" />
@@ -708,6 +717,12 @@
           <properties />
           <option name="timeStamp" value="216" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC15_3Sum.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/Object/com/objectPattern/InitStaticVariable.java</url>
           <line>20</line>
@@ -814,22 +829,7 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/software/jdk-10.0.1/lib/src.zip!/java.base/java/lang/reflect/Method.java" />
-    <entry file="file://$PROJECT_DIR$/Object/com/objectPattern/TemplatePattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/software/jdk-10.0.1/lib/src.zip!/java.base/java/util/Stack.java" />
-    <entry file="file://$PROJECT_DIR$/src/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5187">
-          <caret line="253" column="45" selection-start-line="253" selection-start-column="45" selection-end-line="253" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/avergeScore.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -1034,6 +1034,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode11_ContainerMostWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="39600">
@@ -1066,31 +1073,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LC10_Regular.java">
+    <entry file="file://$PROJECT_DIR$/src/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode11_ContainerMostWater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        <state relative-caret-position="813">
+          <caret line="173" column="46" lean-forward="true" selection-start-line="173" selection-start-column="46" selection-end-line="173" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LC12_IntegerToRoman.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="145" selection-end-column="5" />
+        <state relative-caret-position="2917">
+          <caret line="138" column="9" lean-forward="true" selection-start-line="138" selection-start-column="9" selection-end-line="138" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LC14_LongestComPrefix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        <state relative-caret-position="44">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LC10_Regular.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="52" column="28" lean-forward="true" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="29" />
+          <folding>
+            <element signature="e#1861#1876#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LC15_3Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#220#235#0" expanded="true" />
+            <element signature="e#212#227#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

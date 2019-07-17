@@ -56,5 +56,15 @@ public class test1 {
         for(String s:queue)
             System.out.println(s);
 
+
+        List <List<Integer>> listSum=new ArrayList<List<Integer>>() ;
+        listSum.add(null);
+        Integer[] a=new Integer[]{1,2,3};
+        List<Integer> alist=Arrays.asList(a);
+        listSum.add(alist);
+        listSum.add(null);
+        listSum.remove(null);
+        System.out.println(listSum);
+
     }
 }
