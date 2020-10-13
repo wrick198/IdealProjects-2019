@@ -64,7 +64,7 @@
         <!--mockito-->
         <mockito.version>1.9.5</mockito.version>
         <!--junit-->
-        <junit.version>4.10</junit.version>
+        <junit.version>4.13.1</junit.version>
         <!--servlet api-->
         <servlet-api.version>2.5</servlet-api.version>
         <!--jsp api-->
