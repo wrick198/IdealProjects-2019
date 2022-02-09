@@ -54,7 +54,7 @@
         <!-- Spring 版本号 -->
         <spring.version>4.2.5.RELEASE</spring.version>
         <!-- Hibernate 版本号 -->
-        <hibernate.version>5.1.2.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
         <!-- Mysql -->
         <mysql.version>5.1.38</mysql.version>
         <!--spring security-->
